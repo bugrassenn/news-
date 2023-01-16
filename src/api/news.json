@@ -1,0 +1,28 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "name": "Haber1",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, aliquam.",
+      "imageURL": "https://i.nethaber.com/storage/files/images/2021/03/01/whatsapp-image-2020-01-09-at-14-rwJX_cover.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Haber1",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, aliquam.",
+      "imageURL": "https://i.nethaber.com/storage/files/images/2021/03/01/whatsapp-image-2020-01-09-at-14-rwJX_cover.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Haber1",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, aliquam.",
+      "imageURL": "https://i.nethaber.com/storage/files/images/2021/03/01/whatsapp-image-2020-01-09-at-14-rwJX_cover.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Haber1",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, aliquam.",
+      "imageURL": "https://i.nethaber.com/storage/files/images/2021/03/01/whatsapp-image-2020-01-09-at-14-rwJX_cover.jpg"
+    }
+  ]
+}
